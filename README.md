@@ -1,4 +1,9 @@
-## Hi there 👋
+## Servus! I'm Rudi
+
+- 🌱 I'm a second year computer science student at the [HTBLA Leonding](https://www.htl-leonding.at/ueber-uns/) in the Computer Science International branch!
+- 🔭 I'm currently working on a fun litle program that creates new song lyrics from the type of music you like!
+- I develop primarily in C# and C (that is also what we learn in my college/technical highschool) and for personal projects: Python, Typescript
+-⚡ A fun fact about me is that I love to compose and play piano!
 
 <!--
 **if230033/if230033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
